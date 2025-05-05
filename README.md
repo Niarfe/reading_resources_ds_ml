@@ -14,4 +14,7 @@ Gathering resources for data science and machine learning
 * [sohs-ystatslearning-statistical-learning-r](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning-r)
 * [stanford-university-statistical-learning-with-python](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python)
 
+
+# Books
+* [Deep Learning: Goodfellow, Bengio, Courville](https://www.deeplearningbook.org/)
 * 
