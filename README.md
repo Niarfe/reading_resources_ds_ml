@@ -17,4 +17,4 @@ Gathering resources for data science and machine learning
 
 # Books
 * [Deep Learning: Goodfellow, Bengio, Courville](https://www.deeplearningbook.org/)
-* 
+* [Pattern recognition and Machine Learning: Bishop](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
