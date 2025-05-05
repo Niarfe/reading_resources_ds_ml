@@ -4,5 +4,4 @@
   
 # The usual things I code to get comfortable with a language
 * The [language program I've done in JS, Python](https://github.com/Niarfe/eo-notebooks/tree/master/code/all_things_language)
-* [Tuning XGBoost using tidymodels](https://www.youtube.com/watch?v=hpudxAmxHSM)
-* [Tuning random forest hyperparameters with tidymodels](https://www.youtube.com/watch?app=desktop&v=ts5bRZ7pRKQ)
+
