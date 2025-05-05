@@ -13,6 +13,8 @@ Gathering resources for data science and machine learning
 * [Statistical Learning with R](https://www.youtube.com/playlist?list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e) Stanford MOOC
 * [sohs-ystatslearning-statistical-learning-r](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning-r)
 * [stanford-university-statistical-learning-with-python](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python)
+* [Tuning XGBoost using tidymodels](https://www.youtube.com/watch?v=hpudxAmxHSM)
+* [Tuning random forest hyperparameters with tidymodels](https://www.youtube.com/watch?app=desktop&v=ts5bRZ7pRKQ)
 
 
 # Books
