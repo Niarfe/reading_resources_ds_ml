@@ -3,7 +3,10 @@
 * [processing-r](https://processing-r.github.io/tutorials/gettingstarted/)
 * [r-api-tutorial](https://www.dataquest.io/blog/r-api-tutorial/)
 * [R-for-quantiative-finance](https://rpubs.com/thabog/R-for-quantiative-finance)
-  
+
+# Book Resources
+* [metaprogramming-in-r](https://github.com/Niarfe/metaprogramming-in-r)
+
 # The usual things I code to get comfortable with a language
 * The [language program I've done in JS, Python](https://github.com/Niarfe/eo-notebooks/tree/master/code/all_things_language)
 
