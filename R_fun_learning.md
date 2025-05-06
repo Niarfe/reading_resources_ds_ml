@@ -7,6 +7,7 @@
 
 # Book Resources
 * [metaprogramming-in-r](https://github.com/Niarfe/metaprogramming-in-r)
+    - [dr neptunes repo](https://github.com/dr-neptune/metaprogramming_in_R/blob/master/metaprogramming.org)
 
 # The usual things I code to get comfortable with a language
 * The [language program I've done in JS, Python](https://github.com/Niarfe/eo-notebooks/tree/master/code/all_things_language)
