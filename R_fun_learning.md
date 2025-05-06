@@ -3,6 +3,7 @@
 * [processing-r](https://processing-r.github.io/tutorials/gettingstarted/)
 * [r-api-tutorial](https://www.dataquest.io/blog/r-api-tutorial/)
 * [R-for-quantiative-finance](https://rpubs.com/thabog/R-for-quantiative-finance)
+* [rmarkdown-site](https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html)
 
 # Book Resources
 * [metaprogramming-in-r](https://github.com/Niarfe/metaprogramming-in-r)
