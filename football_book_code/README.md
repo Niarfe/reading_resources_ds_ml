@@ -1,6 +1,7 @@
 # Football Analytics with Python and R code
 
 ## NB: This is hard copied here from `git@github.com:Niarfe/football_book_code.git` in order to work throug examples
+* [Oreilly: Football analytics with...](https://learning.oreilly.com/library/view/football-analytics-with/9781492099611/)
 
 This repository contains code for the book _Football Analytics with Python and R_ by Eric Eager and Richard Erickson.
 The repository contains two files for each chapter, a Python file that ends in `*.py` and an R file that ends in `*.R`.
